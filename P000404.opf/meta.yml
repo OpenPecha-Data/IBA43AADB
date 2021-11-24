@@ -1,5 +1,7 @@
 id: P000404
 initial_creation_type: ocr
+created_at: 17/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W3PD430
   title: བོད་ཀྱི་བཀྲ་ཤིས་པའི་རྒྱུན་རིས་གསར་འགྲེལ།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 176
       base_file: v001.txt
-ebook_metadata:
-  title: བོད་ཀྱི་བཀྲ་ཤིས་པའི་རྒྱུན་རིས་གསར་འགྲེལ།
-  author: ''
-  sku: P000404
-  cover: cover.jpg
-  layers:
-  - pagination
